@@ -1,0 +1,43 @@
+{
+    "project":[
+        {
+            "title":"DAON PENSION",
+            "sub":"RENEWAL SITE",
+            "day1":"2022 . 05 . 18",
+            "day2":"~ 06 . 27",
+            "video":"./video/daonpension.mp4",
+            "href":"https://gggdbstjs.github.io/project/",
+            "thumb":"./img/daon/daonpension.png",
+            "img":"./img/daon/daonimg.png"
+
+
+
+
+        },
+        {
+            "title":"644 STUDIO",
+            "sub":"CLONE SITE",
+            "day1":"2022 . 06 . 28",
+            "day2":"~ 07 . 13",
+            "video":"./video/644studio.mp4",
+            "href":"https://gggdbstjs.github.io/clone/",
+            "thumb":"./img/644studio/664studio.png",
+            "img":"./img/644studio/644img.png"
+
+
+        },
+        {
+            "title":"MINUMSA",
+            "sub":"RENEWAL SITE",
+            "day1":"2022 . 07 . 13",
+            "day2":"~ 07 . 29",
+            "video":"./video/minumsa.mp4",
+            "href":"http://gggdbstjs.dothome.co.kr/",
+            "thumb":"./img/minumsa/minumsa.png",
+            "img":"./img/minumsa/minumsaimg.png"
+
+
+        }
+        
+    ]
+}
